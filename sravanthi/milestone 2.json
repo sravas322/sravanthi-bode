@@ -1,0 +1,41 @@
+{
+  "how to apply for loan": "**📝 Loan Application Process:**\n\n1. Choose loan type\n2. Check eligibility\n3. Fill application form\n4. Upload documents\n5. Get approval",
+
+  "types of loans": "**💰 Types of Bank Loans:**\n\n• Personal Loan\n• Home Loan\n• Education Loan\n• Vehicle Loan\n• Gold Loan\n• Business Loan",
+
+  "how to open account": "**🏦 Account Opening:**\n\n1. Visit bank branch or website\n2. Submit KYC documents\n3. Fill application form\n4. Deposit initial amount\n5. Account will be activated",
+
+  "how to create account": "**🏦 Account Opening:**\n\n1. Visit branch/website\n2. Submit KYC\n3. Initial deposit\n4. Account activated",
+
+  "how to start account": "**🏦 Account Opening:**\n\n1. Visit branch/website\n2. Submit KYC\n3. Initial deposit\n4. Account activated",
+
+  "documents required for bank account": "**📄 Documents Required:**\n\n• Aadhaar Card\n• PAN Card\n• Passport Size Photos\n• Address Proof",
+
+  "how to transfer money": "**💸 Money Transfer Methods:**\n\n• NEFT\n• RTGS\n• IMPS\n• UPI\n• Mobile Banking",
+
+  "how to check balance": "**📊 Ways to Check Balance:**\n\n• Mobile Banking App\n• ATM Machine\n• SMS Banking\n• Net Banking",
+
+  "what is atm": "**🏧 ATM (Automated Teller Machine):**\n\nA machine that allows customers to withdraw cash, check balance, and perform basic banking transactions without visiting the bank branch.",
+
+  "what is net banking": "**💻 Net Banking:**\n\nNet banking allows customers to access banking services online such as balance check, fund transfer, bill payment, and account management.",
+
+  "what is mobile banking": "**📱 Mobile Banking:**\n\nMobile banking allows customers to perform banking transactions through a mobile application provided by the bank.",
+
+  "what is upi": "**📲 UPI (Unified Payments Interface):**\n\nUPI is a digital payment system that allows instant money transfer between bank accounts using a mobile phone.",
+
+  "what is interest": "**📈 Interest:**\n\nInterest is the amount charged by a bank when you borrow money or the amount earned when you deposit money in a bank account.",
+
+  "what is savings account": "**🏦 Savings Account:**\n\nA savings account is a bank account used to deposit money safely while earning interest on the balance.",
+
+  "what is current account": "**🏢 Current Account:**\n\nA current account is mainly used by businesses for frequent transactions and usually does not earn interest.",
+
+  "what is fixed deposit": "**💰 Fixed Deposit (FD):**\n\nA fixed deposit is an investment where money is deposited in a bank for a fixed period and earns higher interest.",
+
+  "what is recurring deposit": "**📅 Recurring Deposit (RD):**\n\nA recurring deposit allows customers to deposit a fixed amount every month and earn interest on the total amount.",
+
+  "how to withdraw money": "**💵 Ways to Withdraw Money:**\n\n• ATM Withdrawal\n• Bank Branch Withdrawal\n• Debit Card\n• Cheque Withdrawal",
+
+  "what is debit card": "**💳 Debit Card:**\n\nA debit card allows customers to withdraw cash and make payments directly from their bank account.",
+
+  "what is credit card": "**💳 Credit Card:**\n\nA credit card allows customers to borrow money from the bank to make purchases and repay later."
+}
